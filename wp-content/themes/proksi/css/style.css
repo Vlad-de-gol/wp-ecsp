@@ -1,0 +1,152 @@
+.box {
+        width: 100%;
+        height: 100%;
+      }
+
+      .slider__item {
+        background-size: cover;
+        background-position: center;
+      }
+.slider {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  margin-top: 0px;
+ 
+
+}
+.slider-second {
+  position: relative;
+  width: 100%;
+  height: 570px;
+  overflow: hidden;  
+}
+.slider__wrapper {
+  height: 100%;
+  list-style: none;
+  overflow: hidden;
+  *zoom: 1;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform-style: preserve-3d;
+}
+.slider__item {
+  height: 100%;
+  float: left;
+  clear: none;
+}
+.slider__arrows-item {
+  position: absolute;
+  display: block;
+  margin-bottom: -20px;
+  padding: 20px;
+  cursor: pointer;
+}
+.slider__arrows-item--right {
+  bottom: 50%;
+  right: 30px;
+}
+.slider__arrows-item--left {
+  bottom: 50%;
+  left: 30px;
+}
+.slider__nav {
+  position: absolute;
+  bottom: 135px;
+}
+.slider__nav-item {
+  width: 10px;
+  height: 10px;
+  float: left;
+  clear: none;
+  display: block;
+  margin: 0 5px;
+  background: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+.slider__nav-item--current {
+  background: #1E73BE;
+}
+.slider__nav-item:hover {
+  background: #1E73BE;
+}
+
+
+section.resp .slider .slider__nav-item{
+  display: none;
+}
+
+.slider__arrows-item--left {
+  bottom: 50%;
+  left: 30px;
+  width: 70px;
+  height: 70px;
+  background: url(../images/slider-nav/left.png) no-repeat;
+}
+
+.slider__arrows-item--left:hover {
+  bottom: 50%;
+  left: 30px;
+  width: 70px;
+  height: 70px;
+  background: url(../images/slider-nav/left-plus.png) no-repeat;
+}
+
+
+
+.slider__arrows-item--right {
+  bottom: 50%;
+  right: 30px;
+  width: 70px;
+  height: 70px;
+  background: url(../images/slider-nav/right.png) no-repeat;
+}
+
+.slider__arrows-item--right:hover{
+  bottom: 50%;
+  right: 30px;
+  width: 70px;
+  height: 70px;
+  background: url(../images/slider-nav/right-plus.png) no-repeat;
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:992px){
+  .slider {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 10px;
+  }
+  .slider-second {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 10px;
+  }
+  .slider-second {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding-bottom: 40px;
+  }
+  .slider__nav {
+  position: absolute;
+  bottom: 10px;
+}
+}
+

@@ -1,0 +1,134 @@
+@font-face {
+    font-family: 'glyphiconshalflingsregular';
+    src: url('../fonts/glyphiconshalflingsregular.eot');
+    src: url('../fonts/glyphiconshalflingsregular.eot') format('embedded-opentype'),
+         url('../fonts/glyphiconshalflingsregular.woff2') format('woff2'),
+         url('../fonts/glyphiconshalflingsregular.woff') format('woff'),
+         url('../fonts/glyphiconshalflingsregular.ttf') format('truetype'),
+         url('../fonts/glyphiconshalflingsregular.svg#glyphiconshalflingsregular') format('svg');
+}
+@font-face {
+    font-family: 'Catorze27Style1SemiBold';
+    src: url('../fonts/Catorze27Style1SemiBold.eot');
+    src: url('../fonts/Catorze27Style1SemiBold.eot') format('embedded-opentype'),
+         url('../fonts/Catorze27Style1SemiBold.woff2') format('woff2'),
+         url('../fonts/Catorze27Style1SemiBold.woff') format('woff'),
+         url('../fonts/Catorze27Style1SemiBold.ttf') format('truetype'),
+         url('../fonts/Catorze27Style1SemiBold.svg#Catorze27Style1SemiBold') format('svg');
+}
+@font-face {
+    font-family: 'helvetichtalic';
+    src: url('../fonts/helvetichtalic.eot');
+    src: url('../fonts/helvetichtalic.eot') format('embedded-opentype'),
+         url('../fonts/helvetichtalic.woff2') format('woff2'),
+         url('../fonts/helvetichtalic.woff') format('woff'),
+         url('../fonts/helvetichtalic.ttf') format('truetype'),
+         url('../fonts/helvetichtalic.svg#helvetichtalic') format('svg');
+}
+@font-face {
+    font-family: 'helveticthin';
+    src: url('../fonts/helveticthin.eot');
+    src: url('../fonts/helveticthin.eot') format('embedded-opentype'),
+         url('../fonts/helveticthin.woff2') format('woff2'),
+         url('../fonts/helveticthin.woff') format('woff'),
+         url('../fonts/helveticthin.ttf') format('truetype'),
+         url('../fonts/helveticthin.svg#helveticthin') format('svg');
+}
+@font-face {
+    font-family: 'horleveticsemibold';
+    src: url('../fonts/horleveticsemibold.eot');
+    src: url('../fonts/horleveticsemibold.eot') format('embedded-opentype'),
+         url('../fonts/horleveticsemibold.woff2') format('woff2'),
+         url('../fonts/horleveticsemibold.woff') format('woff'),
+         url('../fonts/horleveticsemibold.ttf') format('truetype'),
+         url('../fonts/horleveticsemibold.svg#horleveticsemibold') format('svg');
+}
+@font-face {
+    font-family: 'HelveticaNeueUltraLight';
+    src: url('../fonts/HelveticaNeueUltraLight.eot');
+    src: url('../fonts/HelveticaNeueUltraLight.eot') format('embedded-opentype'),
+         url('../fonts/HelveticaNeueUltraLight.woff2') format('woff2'),
+         url('../fonts/HelveticaNeueUltraLight.woff') format('woff'),
+         url('../fonts/HelveticaNeueUltraLight.ttf') format('truetype'),
+         url('../fonts/HelveticaNeueUltraLight.svg#HelveticaNeueUltraLight') format('svg');
+}
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('../fonts/HelveticaNeue.eot');
+    src: url('../fonts/HelveticaNeue.eot') format('embedded-opentype'),
+         url('../fonts/HelveticaNeue.woff2') format('woff2'),
+         url('../fonts/HelveticaNeue.woff') format('woff'),
+         url('../fonts/HelveticaNeue.ttf') format('truetype'),
+         url('../fonts/HelveticaNeue.svg#HelveticaNeue') format('svg');
+}
+@font-face {
+    font-family: 'HelveticaNeueCyrBold';
+    src: url('../fonts/HelveticaNeueCyrBold.eot');
+    src: url('../fonts/HelveticaNeueCyrBold.eot') format('embedded-opentype'),
+         url('../fonts/HelveticaNeueCyrBold.woff2') format('woff2'),
+         url('../fonts/HelveticaNeueCyrBold.woff') format('woff'),
+         url('../fonts/HelveticaNeueCyrBold.ttf') format('truetype'),
+         url('../fonts/HelveticaNeueCyrBold.svg#HelveticaNeueCyrBold') format('svg');
+}
+@font-face {
+    font-family: 'HelveticaNeueCyrThin';
+    src: url('../fonts/HelveticaNeueCyrThin.eot');
+    src: url('../fonts/HelveticaNeueCyrThin.eot') format('embedded-opentype'),
+         url('../fonts/HelveticaNeueCyrThin.woff2') format('woff2'),
+         url('../fonts/HelveticaNeueCyrThin.woff') format('woff'),
+         url('../fonts/HelveticaNeueCyrThin.ttf') format('truetype'),
+         url('../fonts/HelveticaNeueCyrThin.svg#HelveticaNeueCyrThin') format('svg');
+}
+
+
+@font-face {
+    font-family: 'fontawesome-webfont';
+    src: url('../fonts/fontawesome-webfont.eot');
+    src: url('../fonts/fontawesome-webfont.eot') format('embedded-opentype'),
+         url('../fonts/fontawesome-webfont.woff2') format('woff2'),
+         url('../fonts/fontawesome-webfont.woff') format('woff'),
+         url('../fonts/fontawesome-webfont.ttf') format('truetype'),
+         url('../fonts/fontawesome-webfont.svg#fontawesome-webfont') format('svg');
+}
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/FontAwesome.otf');    
+}
+@font-face {
+    font-family: 'star';
+    src: url('../fonts/star.eot');
+    src: url('../fonts/star.eot') format('embedded-opentype'),
+         url('../fonts/star.woff2') format('woff2'),
+         url('../fonts/star.woff') format('woff'),
+         url('../fonts/star.ttf') format('truetype'),
+         url('../fonts/star.svg#star') format('svg');
+}
+@font-face {
+    font-family: 'WooCommerce';
+    src: url('../fonts/WooCommerce.eot');
+    src: url('../fonts/WooCommerce.eot') format('embedded-opentype'),
+         url('../fonts/WooCommerce.woff2') format('woff2'),
+         url('../fonts/WooCommerce.woff') format('woff'),
+         url('../fonts/WooCommerce.ttf') format('truetype'),
+         url('../fonts/WooCommerce.svg#WooCommerce') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('../fonts/OpenSansBold.eot');
+    src: url('../fonts/OpenSansBold.eot') format('embedded-opentype'),
+         url('../fonts/OpenSansBold.woff2') format('woff2'),
+         url('../fonts/OpenSansBold.woff') format('woff'),
+         url('../fonts/OpenSansBold.ttf') format('truetype'),
+         url('../fonts/OpenSansBold.svg#OpenSansBold') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('../fonts/OpenSansRegular.eot');
+    src: url('../fonts/OpenSansRegular.eot') format('embedded-opentype'),
+         url('../fonts/OpenSansRegular.woff2') format('woff2'),
+         url('../fonts/OpenSansRegular.woff') format('woff'),
+         url('../fonts/OpenSansRegular.ttf') format('truetype'),
+         url('../fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+
+
